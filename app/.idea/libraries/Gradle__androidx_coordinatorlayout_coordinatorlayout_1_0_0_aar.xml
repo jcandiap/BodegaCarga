@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://I:/portapps/android-studio-portable/data/.gradle/caches/transforms-2/files-2.1/49d31bc531f7b5a1a9a386af932ad7b2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://I:/portapps/android-studio-portable/data/.gradle/caches/transforms-2/files-2.1/49d31bc531f7b5a1a9a386af932ad7b2/res" />
+      <root url="jar://I:/portapps/android-studio-portable/data/.gradle/caches/transforms-2/files-2.1/49d31bc531f7b5a1a9a386af932ad7b2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://I:/portapps/android-studio-portable/data/.gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.0.0/4325b3c4422ad58201ed8dc15ae56bda9accedf2/coordinatorlayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
